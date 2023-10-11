@@ -10,8 +10,8 @@ import {
 import CheckBox from '@react-native-community/checkbox';
 
 export const LoginScreen = () => {
-
-
+  console.log('Hello world')
+ 
   return (
     <View style={styles.container}>
       <View style={styles.card}>
