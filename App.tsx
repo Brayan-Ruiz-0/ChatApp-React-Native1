@@ -6,8 +6,8 @@ import { RegisterScreen } from './Src/screens/RegisterScreen'
 export const App = () => {
   return (
     <SafeAreaView style={{flex: 1}}>
-      {/* <LoginScreen/> */}
-      <RegisterScreen/>
+      <LoginScreen/>
+      {/* <RegisterScreen/> */}
 
 
     </SafeAreaView>

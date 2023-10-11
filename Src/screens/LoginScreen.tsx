@@ -10,6 +10,8 @@ import {
 import CheckBox from '@react-native-community/checkbox';
 
 export const LoginScreen = () => {
+
+
   return (
     <View style={styles.container}>
       <View style={styles.card}>
@@ -172,4 +174,4 @@ const styles = StyleSheet.create({
     marginTop: 10,
     marginLeft: 10,
   },
-});
+})

@@ -8,22 +8,22 @@ export const RegisterScreen = () => {
         <Text style={styles.login}>Create a new Acount</Text>
       <View style={styles.card}>
       <TextInput
-            style={styles.username}
+            // style={styles.username}
             placeholder="Username"
             placeholderTextColor="#000"
           />
           <TextInput
-            style={styles.username}
-            placeholder="Username"
+            // style={styles.username}
+            placeholder="Email"
             placeholderTextColor="#000"
           />
           <TextInput
-            style={styles.username}
-            placeholder="Username"
+            // style={styles.username}
+            placeholder="Password"
             placeholderTextColor="#000"
           />
           <TextInput
-            style={styles.username}
+            // style={styles.username}
             placeholder="Username"
             placeholderTextColor="#000"
           />
